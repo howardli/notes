@@ -1,4 +1,5 @@
 @startuml uml
+
 class 简单工厂 {
     + createOperate():运算
 }
